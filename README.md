@@ -218,7 +218,7 @@
 
 <br/>
 
-<a href="YOUR_ATS_PROJECT_REPOSITORY">
+<a href="https://github.com/Rumaisadev/ats-resume">
   <img src="https://img.shields.io/badge/View_Project-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View ATS Resume Analyzer" />
 </a>
 
@@ -278,7 +278,6 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub contribution graph" />
 
 </div>
 
