@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="/hero.svg" alt="Rumaisa — Full-Stack Developer" />
+<img width="100%" src="x.jpg" alt="Rumaisa — Full-Stack Developer" />
 
 <br/><br/>
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
+  <a href="https://www.linkedin.com/in/rumaisa-kanwal-7b7604257/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a> -->
+  <a href="rumaisadev2@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rumaisadev&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
