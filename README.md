@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="x.jpg" alt="Rumaisa — Full-Stack Developer" />
 
 <br/><br/>
 
